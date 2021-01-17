@@ -1,4 +1,4 @@
-module storage
+module github.com/orrche/storage
 
 go 1.14
 
